@@ -1,0 +1,25 @@
+Using input file Hm1Testing
+
+Read Array size 4
+Read # commands 11
+
+Command: A  -1  12345 KleinmanRonald
+Command: A  -1  87654 SmithMary
+Command: A  -1  54321 BerraYogi
+Command: I  1  32145 RizzutoPhil
+Command: R  2  -1 xxxx
+Command: A  -1  67890 MantleMickey
+Command: I  9  89300 KofaxSandy
+Command: I  3  89012 KofaxSandy
+Command: A  -1  99887 MarisRoger
+Command: S  3  62109 FordWhitey
+Command: I  0  10200 SkowronMoose
+-------
+
+1#  Student: ID = 10200  Name = SkowronMoose
+2#  Student: ID = 12345  Name = KleinmanRonald
+3#  Student: ID = 32145  Name = RizzutoPhil
+4#  Student: ID = 54321  Name = BerraYogi
+5#  Student: ID = 62109  Name = FordWhitey
+6#  Student: ID = 67890  Name = MantleMickey
+7#  Student: ID = 99887  Name = MarisRoger
